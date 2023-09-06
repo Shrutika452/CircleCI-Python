@@ -1,1 +1,4 @@
-# CircleCI-Python
+
+python main.py
+
+python tests.py
